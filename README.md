@@ -19,4 +19,4 @@
 <!-- LINKS -->
 
 [website]: https://google.com/
-[classroom]: https://classroom.com/
+[classroom]: https://classroom.google.com/
