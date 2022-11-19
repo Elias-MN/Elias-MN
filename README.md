@@ -2,8 +2,12 @@
 
 ### Aplicaciones web:
 
-- :hamburger: [Recetas de cocina][comidaAPI]
+- 🍔 [Recetas de cocina][ComidaAPI]
+- 👾 [Pokedex de Kanto][PokedexAPI]
 
 
 <!-- LINKS -->
-[comidaAPI]: https://elias-mn.github.io/ComidaAPI/
+[ComidaAPI]: https://elias-mn.github.io/ComidaAPI/
+
+[PokedexAPI] https://elias-mn.github.io/PokedexKanto/
+
