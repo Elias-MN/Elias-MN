@@ -3,7 +3,7 @@
 ### Aplicaciones web:
 
 - 🍔 [Recetas de cocina][ComidaAPI]
-- 👾 [Pokedex de Kanto][PokedexAPI]
+- 🐲 [Pokedex de Kanto][PokedexAPI]
 
 
 <!-- LINKS -->
