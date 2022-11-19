@@ -9,5 +9,5 @@
 <!-- LINKS -->
 [ComidaAPI]: https://elias-mn.github.io/ComidaAPI/
 
-[PokedexAPI] https://elias-mn.github.io/PokedexKanto/
+[PokedexAPI]: https://elias-mn.github.io/PokedexKanto/
 
