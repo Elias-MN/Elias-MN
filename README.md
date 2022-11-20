@@ -4,6 +4,7 @@
 
 - 🍔 [Recetas de cocina][ComidaAPI]
 - 🐲 [Pokedex de Kanto][PokedexAPI]
+- 🇪🇸 [Traductor][Traductor]
 
 
 <!-- LINKS -->
@@ -11,3 +12,4 @@
 
 [PokedexAPI]: https://elias-mn.github.io/PokedexKanto/
 
+[Traductor]: https://elias-mn.github.io/Traductor/
