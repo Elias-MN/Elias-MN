@@ -4,7 +4,7 @@
 
 - 🍔 [Recetas de cocina][ComidaAPI]
 - 🐲 [Pokedex de Kanto][PokedexAPI]
-- 👅 [Traductor][Traductor]
+- 👽 [Traductor][Traductor]
 - 🖼 [Tablero web][Tablero]
 
 
