@@ -7,6 +7,7 @@
 - 👽 [Traductor][Traductor]
 - 🖼 [Tablero web][Tablero]
 - ⏰[Pomodoro][Pomodoro]
+- 📝[Notas App][NotasApp]
 
 <!-- LINKS -->
 [ComidaAPI]: https://elias-mn.github.io/ComidaAPI/
@@ -18,3 +19,5 @@
 [Tablero]: https://elias-mn.github.io/Tablero/
 
 [Pomodoro]: https://elias-mn.github.io/Pomodoro/
+
+[NotasApp]: https://elias-mn.github.io/NotasApp/
