@@ -5,7 +5,7 @@
 - 🍔 [Recetas de cocina][ComidaAPI]
 - 🐲 [Pokedex de Kanto][PokedexAPI]
 - 👽 [Traductor][Traductor]
-- 🖼 [Tablero web][Tablero]
+- 🖼[Tablero web][Tablero]
 - ⏰[Pomodoro][Pomodoro]
 - 📝[Notas App][NotasApp]
 
