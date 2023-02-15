@@ -3,7 +3,7 @@
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Elias-MN.Elias-MN)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-## Aplicaciones web:
+## 🗂️ Aplicaciones web:
 
 - 🍔 [Recetas de cocina][ComidaAPI]
 - 🐲 [Pokedex de Kanto][PokedexAPI]
