@@ -21,3 +21,8 @@
 [Pomodoro]: https://elias-mn.github.io/Pomodoro/
 
 [NotasApp]: https://elias-mn.github.io/NotasApp/
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elias-MN)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elias-MN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
