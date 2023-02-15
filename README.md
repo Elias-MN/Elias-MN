@@ -1,6 +1,6 @@
 ### 👋 Soy Elías, desarrollador de videojuegos :video_game: como hobby y docente :books: como profesión.
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Elias-MN.Elias-MN)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=Elias-MN.Elias-MN)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## Aplicaciones web:
