@@ -1,6 +1,9 @@
 ### 👋 Soy Elías, desarrollador de videojuegos :video_game: como hobby y docente :books: como profesión.
 
-### Aplicaciones web:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+## Aplicaciones web:
 
 - 🍔 [Recetas de cocina][ComidaAPI]
 - 🐲 [Pokedex de Kanto][PokedexAPI]
@@ -22,7 +25,15 @@
 
 [NotasApp]: https://elias-mn.github.io/NotasApp/
 
+## 🏆 Trofeos GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elias-MN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elias-MN&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elias-MN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🔧 Tecnologías y herramientas
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
