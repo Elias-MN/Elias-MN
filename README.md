@@ -25,10 +25,6 @@
 
 [NotasApp]: https://elias-mn.github.io/NotasApp/
 
-## 🏆 Trofeos GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elias-MN&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔧 Tecnologías y herramientas
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
