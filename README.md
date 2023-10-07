@@ -12,7 +12,7 @@
 - ⏰[Pomodoro][Pomodoro]
 - 📝[Notas App][NotasApp]
 
-<a href="https://app.daily.dev/david50"><img src="https://api.daily.dev/devcards/647eb5fc0c1d42ce9566b3627132c513.png?r=wr9" width="400" alt="David's Dev Card"/></a>
+
 
 <!-- LINKS -->
 [ComidaAPI]: https://elias-mn.github.io/ComidaAPI/
