@@ -1,7 +1,5 @@
-<div display= "flex">
-  <p>### 👋 Soy Elías, desarrollador de videojuegos como hobby y docente como profesión (:video_game: / :books:).</p>
-<a href="https://app.daily.dev/david50"><img src="https://api.daily.dev/devcards/647eb5fc0c1d42ce9566b3627132c513.png?r=vlj" width="300" alt="David's Dev Card"/></a>  
-</div>
+### 👋 Soy Elías, desarrollador de videojuegos como hobby y docente como profesión (:video_game: / :books:).
+<a href="https://app.daily.dev/david50"><img src="https://api.daily.dev/devcards/647eb5fc0c1d42ce9566b3627132c513.png?r=vlj" width="200" alt="David's Dev Card"/></a>  
 
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Elias-MN.Elias-MN)
