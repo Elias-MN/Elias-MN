@@ -1,4 +1,4 @@
-### 👋 Soy Elías, desarrollador de videojuegos como hobby y docente como profesión (:video_game: / :books:).
+### 👋 Soy Elías, desarrollador de videojuegos como hobby y docente como profesión.
 <a href="https://app.daily.dev/david50"><img src="https://api.daily.dev/devcards/647eb5fc0c1d42ce9566b3627132c513.png?r=vlj" width="200" alt="David's Dev Card"/></a>  
 
 
